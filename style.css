@@ -26,7 +26,7 @@
   font-weight: bold;
   margin-left: 3%;
   margin-top: 16%;
-  font-size: 90%;
+  font-size: 84%;
 
 }
 .timepiece1{
@@ -68,14 +68,14 @@
   position: absolute;
   z-index: 2;
   color: black;
-  font-size: 40%;
+  font-size: 34%;
   margin-top: 138%;
   margin-left: 3%;
   text-align: center;
 
 }
 span{
-  font-size: 20%;
+  font-size: 28%;
 }
 img{
   position: absolute;
